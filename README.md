@@ -1,6 +1,6 @@
 # Selenium-Sample-Bank-Website-Automation-using-POM
 
-Technology used
+Technology used:
 Test tool: Selenium
 Language: Java
 Architecture: POM
